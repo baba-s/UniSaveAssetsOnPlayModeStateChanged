@@ -3,7 +3,7 @@
 namespace UniSaveAssetsOnPlayModeStateChanged
 {
 	[InitializeOnLoad]
-	public static class SaveAssetsOnPlayModeStateChanged
+	internal static class SaveAssetsOnPlayModeStateChanged
 	{
 		static SaveAssetsOnPlayModeStateChanged()
 		{
